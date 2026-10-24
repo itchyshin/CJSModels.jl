@@ -1,0 +1,7 @@
+*.o
+*.so
+*.dll
+*.dylib
+.Rhistory
+.Rcheck/
+Manifest.toml

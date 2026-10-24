@@ -1,0 +1,5 @@
+Extracted CJS code from /Users/z3437171/local-scratch/cmr-finish-20261016/DRM.jl-c944
+Source commit: c94437b64e4e24e95d72375503acc6d84e466019
+Copyright original contributors, including Shinichi Nakagawa. License: MIT.
+Dirty Julia CJS refinements preserved; exact source/target SHA-256 hashes in SOURCE-MANIFEST.json.
+Package isolation changes dispatcher, module imports and optional bridge target only.

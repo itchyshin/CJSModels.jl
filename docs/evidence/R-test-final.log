@@ -1,0 +1,46 @@
+cmr-contract: ...................................
+cmr-exact: ..................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................
+cmr-methods: .....................WW..............................................................
+
+══ Warnings ════════════════════════════════════════════════════════════════════
+1. R prediction matches the shared fixed-coefficient literal fixture ('test-cmr-methods.R:102:3') - finite-difference gradient did not stabilize across step halving for parameter 2
+
+2. R prediction matches the shared fixed-coefficient literal fixture ('test-cmr-methods.R:102:3') - finite-difference gradient did not stabilize across step halving for parameter 5
+
+══ DONE ════════════════════════════════════════════════════════════════════════
+                                                                            test
+1             cmr_data rejects malformed CJS histories and interval declarations
+2     keyed predictor schemas retain shuffled keys, factor levels, and contrasts
+3                CJS requires predictors only for post-capture contributing rows
+4         invalid design numerics, aliases, and random terms are explicit errors
+5        terminal time effects are guarded globally, with exactly one constraint
+6                  CJS kernel matches the frozen independent probability fixture
+7                   CJS training prediction returns only contributing keyed rows
+8              CJS newdata prediction is keyed, schema-checked, and unit-checked
+9                                CJS prediction reuses factor coding and offsets
+10             R prediction matches the shared fixed-coefficient literal fixture
+11             CJS simulation preserves layouts, expands frequencies, and refits
+12      CJS Wald inference is guarded and profile intervals are likelihood based
+13                                       CJS bootstrap retains an attempt ledger
+14                         CJS bootstrap refits preserve fitted factor contrasts
+15     CJS Wald and profile diagnostics agree with their likelihood calculations
+16   CJS profile Newton continuation recovers a matrix-gradient stationary point
+17 CJS profile Newton continuation refuses invalid curvature and failed decrease
+   failed warning passed
+1       0       0     10
+2       0       0     10
+3       0       0      2
+4       0       0      7
+5       0       0      6
+6       0       0   2162
+7       0       0     12
+8       0       0      5
+9       0       0      4
+10      0       2      7
+11      0       0     10
+12      0       0     11
+13      0       0      7
+14      0       0      4
+15      0       0     10
+16      0       0      5
+17      0       0      8

@@ -1,0 +1,150 @@
+     Testing CJSModels
+      Status `/private/var/folders/7x/ytfpq14s0v18frbm9v_w9f4c0000gq/T/jl_lDcfti/Project.toml`
+  [10cb03ae] CJSModels v0.0.1 `~/Documents/Codex/2026-10-23/task-7/CJSModels.jl`
+  [31c24e10] Distributions v0.25.132
+  [f6369f11] ForwardDiff v1.4.6
+⌅ [429524aa] Optim v1.13.3
+  [82ae8749] StatsAPI v1.8.0
+  [3eaba693] StatsModels v0.7.10
+  [bd369af6] Tables v1.14.0
+  [37e2e46d] LinearAlgebra
+  [de0858da] Printf
+  [9a3f8284] Random
+  [10745b16] Statistics v1.10.0
+  [8dfed614] Test
+      Status `/private/var/folders/7x/ytfpq14s0v18frbm9v_w9f4c0000gq/T/jl_lDcfti/Manifest.toml`
+  [47edcb42] ADTypes v1.24.0
+  [7d9f7c33] Accessors v0.1.45
+  [79e6a3ab] Adapt v4.7.4
+  [66dad0bd] AliasTables v1.1.3
+  [4fba245c] ArrayInterface v7.30.2
+  [10cb03ae] CJSModels v0.0.1 `~/Documents/Codex/2026-10-23/task-7/CJSModels.jl`
+  [38540f10] CommonSolve v0.2.14
+  [bbf7d656] CommonSubexpressions v0.3.1
+  [34da2185] Compat v4.18.1
+  [a33af91c] CompositionsBase v0.1.2
+  [187b0558] ConstructionBase v1.6.0
+  [9a962f9c] DataAPI v1.16.0
+  [864edb3b] DataStructures v0.19.6
+  [e2d170a0] DataValueInterfaces v1.0.0
+  [163ba53b] DiffResults v1.1.0
+  [b552c78f] DiffRules v1.16.0
+  [a0c0ee7d] DifferentiationInterface v0.7.21
+  [31c24e10] Distributions v0.25.132
+  [ffbed154] DocStringExtensions v0.10.2
+  [4e289a0a] EnumX v1.0.7
+  [1a297f60] FillArrays v1.18.1
+  [6a86dc24] FiniteDiff v2.33.0
+  [f6369f11] ForwardDiff v1.4.6
+  [a0844989] Gamma v1.2.0
+  [34004b35] HypergeometricFunctions v0.3.31
+  [3587e190] InverseFunctions v0.1.18
+  [92d709cd] IrrationalConstants v0.2.7
+  [82899510] IteratorInterfaceExtensions v1.0.0
+  [692b3bcd] JLLWrappers v1.8.0
+⌃ [d3d80556] LineSearches v7.5.1
+  [2ab3a3ac] LogExpFunctions v1.0.3
+  [1914dd2f] MacroTools v0.5.16
+  [e1d29d7a] Missings v1.2.0
+⌅ [d41bc354] NLSolversBase v7.10.0
+  [77ba4419] NaNMath v1.1.5
+⌅ [429524aa] Optim v1.13.3
+  [bac558e1] OrderedCollections v2.0.3
+  [90014a1f] PDMats v0.11.41
+  [85a6dd25] PositiveFactorizations v0.2.4
+⌅ [aea7be01] PrecompileTools v1.2.1
+  [21216c6a] Preferences v1.6.1
+  [43287f4e] PtrArrays v1.4.0
+  [1fd47b50] QuadGK v2.11.3
+  [189a3867] Reexport v1.2.2
+  [79098fc4] Rmath v0.9.0
+  [f2b01f46] Roots v3.0.11
+  [efcf1570] Setfield v1.1.2
+  [1277b4bf] ShiftedArrays v2.0.0
+  [a2af1166] SortingAlgorithms v1.2.3
+  [276daf66] SpecialFunctions v2.9.1
+  [1e83bf80] StaticArraysCore v1.4.4
+  [82ae8749] StatsAPI v1.8.0
+  [2913bbd2] StatsBase v0.34.13
+  [4c63d2b9] StatsFuns v2.2.1
+  [3eaba693] StatsModels v0.7.10
+  [3783bdb8] TableTraits v1.0.1
+  [bd369af6] Tables v1.14.0
+  [efe28fd5] OpenSpecFun_jll v0.5.6+0
+  [f50d1b31] Rmath_jll v0.5.2+0
+  [56f22d72] Artifacts
+  [2a0f44e3] Base64
+  [ade2ca70] Dates
+  [8ba89e20] Distributed
+  [9fa8497b] Future
+  [b77e0a4c] InteractiveUtils
+  [8f399da3] Libdl
+  [37e2e46d] LinearAlgebra
+  [56ddb016] Logging
+  [d6f4376e] Markdown
+  [de0858da] Printf
+  [3fa0cd96] REPL
+  [9a3f8284] Random
+  [ea8e919c] SHA v0.7.0
+  [9e88b42a] Serialization
+  [6462fe0b] Sockets
+  [2f01184e] SparseArrays v1.10.0
+  [10745b16] Statistics v1.10.0
+  [4607b0f0] SuiteSparse
+  [fa267f1f] TOML v1.0.3
+  [8dfed614] Test
+  [cf7118a7] UUIDs
+  [4ec0a83e] Unicode
+  [e66e0078] CompilerSupportLibraries_jll v1.1.2+1
+  [4536629a] OpenBLAS_jll v0.3.23+5
+  [05823500] OpenLibm_jll v0.8.5+0
+  [bea87d4a] SuiteSparse_jll v7.2.1+1
+  [8e850b90] libblastrampoline_jll v5.11.0+0
+        Info Packages marked with ⌃ and ⌅ have new versions available. Those with ⌃ may be upgradable, but those with ⌅ are restricted by compatibility constraints from upgrading.
+     Testing Running tests...
+┌ Info: CJS matrix bridge AD vs step-halved FD
+│   max_ad_fd = 5.67888291946872e-10
+└   max_fd_halving = 1.709743457922741e-9
+Test Summary:       | Pass  Total  Time
+CMR data API exists |    1      1  0.0s
+Test Summary:                           | Pass  Total  Time
+CMR data validation and keyed alignment |   15     15  2.5s
+Test Summary:                             | Pass  Total  Time
+CMR requires post-capture predictors only |    2      2  0.8s
+Test Summary:                           | Pass  Total  Time
+Single-occasion CMR retains final-first |    3      3  2.0s
+Test Summary:                                    | Pass  Total  Time
+Unsurveyed detection predictor keys are optional |    2      2  0.4s
+Test Summary:               | Pass  Total  Time
+Exact CJS production kernel |  728    728  0.5s
+Test Summary:                                      | Pass  Total  Time
+Fixed effects RHS-only designs and fit diagnostics |   11     11  5.0s
+Test Summary:                                      | Pass  Total  Time
+CMR labelled RHS, offsets and terminal constraints |    9      9  4.3s
+Test Summary:                                         | Pass  Total  Time
+CMR fully fixed offset model has no free coefficients |    3      3  1.2s
+Test Summary:                                         | Pass  Total  Time
+Detection design uses surveyed contributing rows only |    8      8  2.1s
+Test Summary:                                                   | Pass  Total  Time
+CJS survival design rank uses only survey-informative intervals |    3      3  1.6s
+Test Summary:                                                       | Pass  Total  Time
+CJS matrix bridge objective includes constrained matrix derivatives |    5      5  2.6s
+Test Summary:                                                   | Pass  Total  Time
+CJS matrix bridge optimizer matches native fixed-effect fitting |    5      5  1.4s
+Test Summary:                                                         | Pass  Total  Time
+CJS matrix bridge rejects inconsistent capture indices before fitting |    3      3  0.1s
+Test Summary:                                                            | Pass  Total  Time
+CJS matrix bridge validates supplied designs and terminal identification |   29     29  0.2s
+Test Summary:                                                          | Pass  Total  Time
+CJS matrix bridge zero columns retain exact row and interval semantics |   18     18  0.1s
+Test Summary:                                              | Pass  Total  Time
+CJS matrix bridge survival rank ignores post-survey suffix |    1      1  0.2s
+Test Summary:                                      | Pass  Total  Time
+CJS interior derivatives at non-optimal parameters |    6      6  1.7s
+Test Summary:                               | Pass  Total  Time
+CJS extreme finite links retain complements |    3      3  0.3s
+Test Summary:                              | Pass  Total  Time
+CJS two rare alternatives at extreme links |    1      1  0.4s
+Test Summary:                             | Pass  Total  Time
+Standalone Gaussian quadrature dependency |    8      8  0.0s
+     Testing CJSModels tests passed 
