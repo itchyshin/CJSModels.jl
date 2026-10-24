@@ -23,7 +23,7 @@ The package is not registered in Julia General. No registry release is claimed.
 ## R companion
 
 ```@raw html
-<p>Read the <a href="../CJSModels/index.html">R companion documentation</a>.</p>
+<p>Read the <a href="https://itchyshin.github.io/CJSModels/">R companion documentation</a>.</p>
 ```
 
 [CJSModels](https://github.com/itchyshin/CJSModels) provides an R interface with native TMB and an optional fixed-effects Julia bridge. The bridge keeps RCall in a separate environment. Public development source is available on GitHub. The software remains experimental.
