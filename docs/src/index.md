@@ -14,6 +14,7 @@ Julia 1.10 or later is required:
 ```julia
 using Pkg
 Pkg.add(url="https://github.com/itchyshin/CJSModels.jl")
+Pkg.add("StatsModels") # Formula syntax used in the tutorial
 using CJSModels
 ```
 

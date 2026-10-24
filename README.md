@@ -2,7 +2,7 @@
 
 Experimental first-capture-conditional Cormack–Jolly–Seber models, extracted into a dedicated development package. Apparent survival is conditional on remaining alive and available; detection is conditional on being alive. The first capture conditions the likelihood and is not an ordinary detection contribution.
 
-Requires Julia >=1.10. Install with `using Pkg; Pkg.add(url="https://github.com/itchyshin/CJSModels.jl")`. Run `julia --project=. -e 'using Pkg; Pkg.instantiate(); Pkg.test()'`. The Julia package runs independently of R, TMB and DRModels.
+Requires Julia >=1.10. Install with `using Pkg; Pkg.add(url="https://github.com/itchyshin/CJSModels.jl"); Pkg.add("StatsModels")`. Run `julia --project=. -e 'using Pkg; Pkg.instantiate(); Pkg.test()'`. The Julia package runs independently of R, TMB and DRModels.
 
 ```julia
 using CJSModels, StatsModels
