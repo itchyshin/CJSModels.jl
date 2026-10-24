@@ -1,0 +1,8 @@
+{
+  "R_baseline": "277dfe952ac3cb9445e0f2ad1bf3e46b8c016be8",
+  "Julia_baseline": "b1bc108f5db52322c576c46673db9d5b5e52a7cd",
+  "R_tarball_sha256": "d88841744117336473c75a0a98211311ce28c7d767268e8526e1c8af83080c44",
+  "R_check": "Status OK; FAIL0 WARN2 SKIP0 PASS2280; --no-manual --no-build-vignettes",
+  "scope": "Final package archive after URL metadata and build exclusions; site-only documentation updates excluded from R archive. Julia numerical source unchanged.",
+  "publication": "None; both repositories remain private and uncommitted local changes are preserved."
+}

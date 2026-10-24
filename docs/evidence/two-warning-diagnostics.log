@@ -1,0 +1,17 @@
+[1] "finite-difference gradient did not stabilize across step halving for parameter 2"
+[2] "finite-difference gradient did not stabilize across step halving for parameter 5"
+ index       parameter          estimate                 AD               FD_h
+     1 phi:(Intercept)  1.97410685512328 -6.97611968192e-11 -4.75513435539e-09
+     2           phi:x  0.00148460878238 -2.82391037219e-09 -5.16762240207e-05
+     3      phi:groupB -0.10437065193609 -2.50236498189e-11  3.75485733120e-08
+     4   p:(Intercept) -0.06307279862868 -1.97810656744e-11 -4.69357166400e-08
+     5             p:x -0.00245964769904 -1.48365514050e-09 -1.27590052114e-04
+     6        p:groupB  0.13066372780502 -1.23429044763e-12  0.00000000000e+00
+            FD_half        difference threshold
+  1.90205374215e-08 2.37756717769e-08     1e-05
+ -1.28603863594e-05 3.88158376613e-05     1e-05
+  1.87742866560e-08 1.87742866560e-08     1e-05
+  5.63228599680e-08 1.03258576608e-07     1e-05
+ -3.17848673086e-05 9.58051848056e-05     1e-05
+  5.63228599680e-08 5.63228599680e-08     1e-05
+Optimizer status: 0 message: relative convergence (4) gradient norm: 2.82391e-09 

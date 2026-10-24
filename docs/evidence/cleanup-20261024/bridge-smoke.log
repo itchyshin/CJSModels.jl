@@ -1,0 +1,11 @@
+Julia version 1.10.12 at location /Users/z3437171/.julia/juliaup/julia-1.10.12+0.aarch64.apple.darwin14/Julia-1.10.app/Contents/Resources/julia/bin will be used.
+Loading setup script for JuliaCall...
+Finish loading setup script for JuliaCall.
+phi:(Intercept)   p:(Intercept) 
+     1.99417454      0.02522045 
+phi:(Intercept)   p:(Intercept) 
+      1.9941780       0.0252176 
+'log Lik.' -86.99874 (df=2)
+'log Lik.' -86.99874 (df=2)
+Fixed-effects R TMB / standalone Julia bridge agrees.
+Julia exit.

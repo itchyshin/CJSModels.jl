@@ -5,3 +5,5 @@
 .Rhistory
 .Rcheck/
 Manifest.toml
+
+docs/build/

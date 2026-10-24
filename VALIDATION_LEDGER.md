@@ -9,6 +9,6 @@
 | Persistent individual effects, SD predictors, shared effects and reference selection | Existing CJS source preserved; not a new full validation campaign | Experimental; broad extraction-specific route tests remain |
 | Parameter recovery and interval calibration | No repeated-sampling campaign in this lane | Deferred |
 | Random-effect or selection R-to-Julia bridge | Unsupported | Not admitted |
-| Public release, CRAN, Julia General, cross-platform acceptance | No submission, tag or publication performed | Not a release checkpoint |
+| Public release, CRAN, Julia General, cross-platform acceptance | Public development source approved; no registry submission, release tag or cross-platform release acceptance | Not a release checkpoint |
 
 Numerical fixture agreement does NOT establish parameter identifiability, recovery, confidence-interval coverage, or all-route parity. See docs/READINESS.md for package-check details and exact residuals.

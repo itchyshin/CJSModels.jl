@@ -1,0 +1,8 @@
+{
+  "R_baseline": "277dfe952ac3cb9445e0f2ad1bf3e46b8c016be8",
+  "Julia_baseline": "b1bc108f5db52322c576c46673db9d5b5e52a7cd",
+  "R_tarball_sha256": "0c5135b5f4e6b15b219b23fb5a092df7180ec3adb9ae17c33635d7886cbec2e2",
+  "R_delta": "Engine documentation and optimizer message label only; no algorithm changes. See cleanup patch.",
+  "Julia_delta": "Documentation only; source unchanged.",
+  "checks": "Full R CMD check --no-manual --no-build-vignettes, exit 0, Status OK; 2280 assertions, 2 finite-difference warnings. Both fixed-effects tutorials executed. Fresh bridge loaded canonical Dropbox Julia src and passed coefficient/loglikelihood tolerance assertions."
+}

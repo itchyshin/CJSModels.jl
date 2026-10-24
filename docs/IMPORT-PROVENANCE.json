@@ -1,0 +1,72 @@
+{
+  "date": "2026-10-24",
+  "policy": "Archive snapshots are immutable reference material, not qualification of current twins. Parent sources remain intact. GPL R material stays in R only; Julia contains MIT Julia material and extraction-check receipts.",
+  "files": [
+    {
+      "source": "/Users/z3437171/Dropbox/Github Local/CJSModels-project/evidence/FULL-CHECK-ADDENDUM.md",
+      "target": "CJSModels.jl/docs/evidence/FULL-CHECK-ADDENDUM.md",
+      "sha256": "eec6f08f53c1335cf7ee765ad775f9a53c00a61b3ef9cefacbecc84ee57f96f0",
+      "scope": "unchanged extraction checkpoint evidence, not the later cleanup source"
+    },
+    {
+      "source": "/Users/z3437171/Dropbox/Github Local/CJSModels-project/evidence/R-check-full-20261024.log",
+      "target": "CJSModels.jl/docs/evidence/R-check-full-20261024.log",
+      "sha256": "074f5db92256cdc5fc3a7fae3ba87f37104b0536c6bf3d668f4a996cf63471d3",
+      "scope": "unchanged extraction checkpoint evidence, not the later cleanup source"
+    },
+    {
+      "source": "/Users/z3437171/Dropbox/Github Local/CJSModels-project/evidence/two-warning-diagnostics.log",
+      "target": "CJSModels.jl/docs/evidence/two-warning-diagnostics.log",
+      "sha256": "1239b61ff82d90359a4c3d9b26fdc7042b81074b054a9441e55e5200a428961d",
+      "scope": "unchanged extraction checkpoint evidence, not the later cleanup source"
+    },
+    {
+      "source": "/Users/z3437171/Dropbox/Github Local/CJSModels-project/evidence/two-warning-diagnostics.csv",
+      "target": "CJSModels.jl/docs/evidence/two-warning-diagnostics.csv",
+      "sha256": "cdd3646add3797918b79222390910df2a6a4602f4864a4c830d20a7f472a3582",
+      "scope": "unchanged extraction checkpoint evidence, not the later cleanup source"
+    },
+    {
+      "source": "/Users/z3437171/local-scratch/cmr-finish-20261016/DRM.jl-c944/docs/src/tutorials/cjs-individual-effects.md",
+      "target": "CJSModels.jl/docs/archive/cjs-individual-effects.md",
+      "sha256": "b75daa950b368938e782f6a244c2e19100692599ea16b2c03036ce9cb6f2889f",
+      "scope": "MIT parent tutorial snapshot; historical claims do not qualify extracted twins"
+    },
+    {
+      "source": "/Users/z3437171/local-scratch/cmr-finish-20261016/DRM.jl-c944/docs/src/tutorials/cjs-shared-effects.md",
+      "target": "CJSModels.jl/docs/archive/cjs-shared-effects.md",
+      "sha256": "d3b96dbb26f33a9bb33271166b43eb10a2f5c564f7923398391d9d4e300d39c5",
+      "scope": "MIT parent tutorial snapshot; historical claims do not qualify extracted twins"
+    },
+    {
+      "source": "/Users/z3437171/local-scratch/cmr-finish-20261016/DRM.jl-c944/docs/src/tutorials/cjs.md",
+      "target": "CJSModels.jl/docs/archive/cjs.md",
+      "sha256": "ef5e34532f76cb05c5ea765738c6c7cc94c28b673036bac96491f9f5113520c6",
+      "scope": "MIT parent tutorial snapshot; historical claims do not qualify extracted twins"
+    },
+    {
+      "source": "/Users/z3437171/local-scratch/cmr-finish-20261016/DRM.jl-c944/docs/dev-log/cmr/contract.md",
+      "target": "CJSModels.jl/docs/archive/contract.md",
+      "sha256": "ccc8204b1d67b59305668e0f4bb1bf82fb24a5ffb756f6035340decb4c41a8ad",
+      "scope": "historical route evidence; original paths are archive pointers, not current validation"
+    },
+    {
+      "source": "/Users/z3437171/local-scratch/cmr-finish-20261016/DRM.jl-c944/docs/dev-log/cmr/m0-m6-acceptance-matrix-2026-10-16.md",
+      "target": "CJSModels.jl/docs/archive/m0-m6-acceptance-matrix-2026-10-16.md",
+      "sha256": "1fe5b9d669526a8c31dad3a46cd6900fbc767e9fd0c8595ffc092b49de5cd294",
+      "scope": "historical route evidence; original paths are archive pointers, not current validation"
+    },
+    {
+      "source": "/Users/z3437171/local-scratch/cmr-finish-20261016/DRM.jl-c944/docs/dev-log/cmr/phaseA-interval-route-crosswalk-2026-10-21.md",
+      "target": "CJSModels.jl/docs/archive/phaseA-interval-route-crosswalk-2026-10-21.md",
+      "sha256": "6a30481e2729062a57d1ea7d07f714edfcc8e2764724edc21af5321b3c1b1c03",
+      "scope": "historical route evidence; original paths are archive pointers, not current validation"
+    },
+    {
+      "source": "/Users/z3437171/local-scratch/cmr-finish-20261016/DRM.jl-c944/docs/dev-log/cmr/julia-shared-output-routes-2026-10-16.md",
+      "target": "CJSModels.jl/docs/archive/julia-shared-output-routes-2026-10-16.md",
+      "sha256": "c44d32831852db7fb27953ac7dcca330124cec53b5d1ae531f89caa3a5617e13",
+      "scope": "historical route evidence; original paths are archive pointers, not current validation"
+    }
+  ]
+}
